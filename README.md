@@ -16,7 +16,10 @@ Apply Feature generation and selection techniques to all the features of the dat
 ### STEP 4
 Apply data visualization techniques to identify the patterns of the data.
 
-
+```
+Developed by: Kaushika.A
+Register no: 212221230048
+```
 # CODE
 ```python
 #loading the dataset
